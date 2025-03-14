@@ -1,4 +1,5 @@
-**PLP PYTHON DAY 1: List Operations**  
+## PLP PYTHON DAY 2: List Operations
+
 This Python script demonstrates various list operations, including appending elements, inserting values at specific positions, extending a list, removing elements, sorting, and finding an index of a specific value.  
 
 ### **Operations Performed**  
